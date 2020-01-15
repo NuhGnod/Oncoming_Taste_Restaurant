@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "792498615729",
+    "firebase_url": "https://reservation-ebc62.firebaseio.com",
+    "project_id": "reservation-ebc62",
+    "storage_bucket": "reservation-ebc62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792498615729:android:69d3d59e13797e60ee7990",
+        "android_client_info": {
+          "package_name": "com.example.oncoming_taste_restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792498615729-n921m2dr4jmch59v452las8gnii7l0r8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oncoming_taste_restaurant",
+            "certificate_hash": "6e1c18ab4934df018cd23a5eb246472eacd23c93"
+          }
+        },
+        {
+          "client_id": "792498615729-pmo2h0nu7to13ucnrvl0e25moji5hh07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLdt11Z2c0xaLUIxRFMZOaDRmSF6a8CJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792498615729-pmo2h0nu7to13ucnrvl0e25moji5hh07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
