@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity{
 
     // 파이어베이스 인증 객체 생성
     private FirebaseAuth firebaseAuth;
-
+    //practice commit git android
     // 구글  로그인 버튼
     private SignInButton buttonGoogle;
     @Override
